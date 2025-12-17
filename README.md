@@ -69,8 +69,14 @@
 - **AI 工具**：OpenAI、Gemini 等（建议使用专线节点）  
 
 ---
+## 五、可乐云测速
 
-## 五、使用建议（参考）
+<img src="https://raw.githubusercontent.com/jichangbaike/cokecloud/refs/heads/main/4133.png" >
+
+
+
+---
+## 六、使用建议（参考）
 
 - **入门 / 预算优先**  
   → 普通中转线路（月付 / 季付套餐）
@@ -83,7 +89,7 @@
 
 ---
 
-## 六、仓库声明（Repository Disclaimer）
+## 七、仓库声明（Repository Disclaimer）
 
 - 本仓库仅用于 **信息整理、参数归档与使用参考**
 - 不提供任何形式的代理服务、节点服务或技术支持

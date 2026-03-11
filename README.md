@@ -2,8 +2,9 @@
 
 可乐云（CokeCloud）提供 **普通中转线路** 与 **专线线路** 两类方案，支持 **SS / VMess** 等常见协议形态。整体套餐结构清晰、价格定位偏向性价比，适合从入门到进阶的不同使用需求。
 
-本仓库用于整理与归档可乐云（CokeCloud）的 **套餐参数、线路类型与选购对比信息**，便于快速查询与参考。  
-**最后更新：2025-12-19**
+> 本仓库用于整理与归档可乐云的 **套餐价格、线路类型与选购对比信息**，便于快速查询与参考。  
+> 
+> **最后更新**：2026-03-11
 
 ---
 
@@ -71,7 +72,7 @@
 - 协议形态：SS / VMess（以官方实际提供为准）
 - 设备数：表格为当前整理值（以官方规则为准）
 - 节点覆盖地区（示例）：香港、日本、美国、新加坡、台湾、韩国、欧洲、东南亚、澳洲等（可能随时调整）
-- 适合预算优先与入门用户
+- **适合预算优先与入门用户**
 
 ---
 
@@ -100,7 +101,7 @@
 ## 测速参考
 > 说明：测速结果受测试时间、网络环境、地区与节点负载影响，仅作参考。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/cokecloud/refs/heads/main/4133.png" alt="CokeCloud 测速参考图" />
+<img src="https://raw.githubusercontent.com/jichangbaike/cokecloud/refs/heads/main/images/cokecloud-test-20260311.png" alt="可乐云 CokeCloud 测速参考图" />
 
 ---
 
@@ -152,10 +153,5 @@
 ---
 
 ## 更新记录
-- **2025-12-19**：整理 README 结构；补充线路对比、FAQ 与免责声明；统一表格呈现
-
----
-
-## License
-This repository is for informational and documentation purposes only.  
-No services, software, or accounts are provided by this repository.
+- **2025-12-19**：整理 README 结构；补充线路对比、FAQ 与免责声明；统一表格呈现；
+- **2026-03-11**：更新 可乐云（CokeCloud）测试图；

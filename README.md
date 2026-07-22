@@ -6,7 +6,7 @@
 
 > 📌 本仓库用于整理与归档可乐云的 **套餐价格、线路类型与选购对比信息**，便于快速查询与参考。  
 > 
-> 📒 **最后更新**：2026-06-09
+> 📒 **最后更新**：2026-07-22
 
 > [!WARNING]
 > 本仓库内容为原创整理，禁止整段复制、镜像式搬运、长期针对性跟抄行为。  
@@ -16,7 +16,7 @@
 ---
 
 ## 官网注册入口
-- https://finalto.xyz/9lTiod
+- [进入可乐云 CokeCloud官网](https://finalto.xyz/9lTiod)
 
 
 ---
@@ -110,9 +110,9 @@
 ## 测速参考
 > 说明：测速结果受测试时间、网络环境、地区与节点负载影响，仅作参考。
 
-<img src="https://raw.githubusercontent.com/jichangbaike/cokecloud/refs/heads/main/images/cokecloud-test-20260609.png" alt="可乐云 CokeCloud 测速参考图" />
+<img src="https://raw.githubusercontent.com/jichangbaike/cokecloud/refs/heads/main/images/cokecloud-test-20260722.png" alt="可乐云 CokeCloud 测速参考图" />
 
-> 测试时间：2026-06-09 
+> 测试时间：2026-07-22 
 
 ---
 
@@ -173,14 +173,15 @@
 如发现相关情况，维护者将保留证据并按平台规则处理。
 
 - **Maintained by:** `jichangbaike`  
-- **Last Updated:** `2026-04-09`  
-- **Version:** `v1.5`
+- **Last Updated:** `2026-07-22`  
+- **Version:** `v1.6`
 
 ---
 
 ## 更新记录
 - **2025-12-19**：整理 README 结构；补充线路对比、FAQ 与免责声明；统一表格呈现；
-- **2026-03-11**：更新 可乐云（CokeCloud）测试图；
-- **2026-04-02**：更新 可乐云 cokecloud 最新价格；
+- **2026-03-11**：更新可乐云CokeCloud 测试图；
+- **2026-04-02**：更新可乐云 cokecloud 最新价格；
 - **2026-04-08**：更新版权申明；
-- **2026-06-09**:   更新 可乐云（CokeCloud）测试图；
+- **2026-06-09**:   更新可乐云 CokeCloud 测试图；
+- **2026-07-22**:   更新可乐云 CokeCloud 测试图；
